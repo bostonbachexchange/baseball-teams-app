@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bostonbachexchange/baseball-teams-app/static/css/main.44654297.css",
-    "main.js": "/bostonbachexchange/baseball-teams-app/static/js/main.a9e1e5b4.js",
-    "static/js/787.fe6f88e7.chunk.js": "/bostonbachexchange/baseball-teams-app/static/js/787.fe6f88e7.chunk.js",
-    "index.html": "/bostonbachexchange/baseball-teams-app/index.html",
-    "main.44654297.css.map": "/bostonbachexchange/baseball-teams-app/static/css/main.44654297.css.map",
-    "main.a9e1e5b4.js.map": "/bostonbachexchange/baseball-teams-app/static/js/main.a9e1e5b4.js.map",
-    "787.fe6f88e7.chunk.js.map": "/bostonbachexchange/baseball-teams-app/static/js/787.fe6f88e7.chunk.js.map"
+    "main.css": "/baseball-teams-app/static/css/main.44654297.css",
+    "main.js": "/baseball-teams-app/static/js/main.bd9f7b4f.js",
+    "static/js/787.fe6f88e7.chunk.js": "/baseball-teams-app/static/js/787.fe6f88e7.chunk.js",
+    "index.html": "/baseball-teams-app/index.html",
+    "main.44654297.css.map": "/baseball-teams-app/static/css/main.44654297.css.map",
+    "main.bd9f7b4f.js.map": "/baseball-teams-app/static/js/main.bd9f7b4f.js.map",
+    "787.fe6f88e7.chunk.js.map": "/baseball-teams-app/static/js/787.fe6f88e7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.44654297.css",
-    "static/js/main.a9e1e5b4.js"
+    "static/js/main.bd9f7b4f.js"
   ]
 }
